@@ -41,7 +41,7 @@ A base utilizada contém informações finais da temporada de 2024, incluindo:
 
 ## Mini Experimento com Machine Learning
 
-Aplicamos um modelo de Regressão Linear simples, com divisão entre dados de treino e teste. Embora o modelo não tenha objetivo de ser altamente preciso (já que estamos lidando com dados de uma temporada já encerrada e uma base de dados relativamente pequena), ele oferece insights interessantes sobre o quanto as variáveis influenciam a classificação dos times.
+Foi aplicado um modelo de Regressão Linear simples, com divisão entre dados de treino e teste. Embora o modelo não tenha objetivo de ser altamente preciso (já que a base de dados é de uma temporada já encerrada e relativamente pequena), ele oferece insights interessantes sobre o quanto as variáveis influenciam a classificação dos times.
 
 Resultado do modelo (R²): 0.8318618834202244 ou 83% 
 
